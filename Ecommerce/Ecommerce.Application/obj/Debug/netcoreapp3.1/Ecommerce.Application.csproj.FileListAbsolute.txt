@@ -1,0 +1,8 @@
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.deps.json
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.dll
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\bin\Debug\netcoreapp3.1\Ecommerce.Application.pdb
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.csprojAssemblyReference.cache
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfoInputs.cache
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.AssemblyInfo.cs
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.dll
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Application\obj\Debug\netcoreapp3.1\Ecommerce.Application.pdb
