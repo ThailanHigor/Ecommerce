@@ -144,5 +144,7 @@ F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debu
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\Ecommerce.Infra.Data.dll
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\Ecommerce.Infra.Data.pdb
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
-F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.MvcApplicationPartsAssemblyInfo.cache
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Razor\Views\Home\Create.cshtml.g.cs
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\AutoMapper.dll
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.MvcApplicationPartsAssemblyInfo.cache

@@ -1,3 +1,4 @@
+using AutoMapper;
 using Ecommerce.Application.Interfaces;
 using Ecommerce.Application.Services;
 using Ecommerce.Domain.Interfaces.Repositories;
@@ -25,6 +26,8 @@ namespace Ecommerce.Presentation.Site
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddAutoMapper(typeof(Startup));
+
             services.AddTransient<IProdutoAppService, ProdutoAppService>();
             services.AddTransient<IProdutoService, ProdutoService>();
             services.AddTransient<IProdutoRepository, ProdutoRepository>();
