@@ -9,3 +9,5 @@ F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Infra.Data\obj\Debug\netco
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Infra.Data\bin\Debug\netcoreapp3.1\Ecommerce.Domain.dll
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Infra.Data\bin\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Infra.Data\obj\Debug\netcoreapp3.1\Ecommerce.Infra.Data.csproj.CopyComplete
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Infra.Data\bin\Debug\netcoreapp3.1\Ecommerce.Infra.Data.runtimeconfig.json
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Infra.Data\bin\Debug\netcoreapp3.1\Ecommerce.Infra.Data.runtimeconfig.dev.json

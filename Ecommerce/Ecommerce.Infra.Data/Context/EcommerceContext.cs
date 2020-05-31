@@ -6,17 +6,16 @@ namespace Ecommerce.Infra.Data.Context
 {
     public class EcommerceContext : DbContext
     {
-        public EcommerceContext()
-        {
-        }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            //optionsBuilder.UseSqlServer(@"Server=.\SQLEXPRESS;Database=SchoolDB;Trusted_Connection=True;");
+            optionsBuilder.UseSqlServer("Server=(localdb)\\mssqllocaldb;Database=Ecommerce;Trusted_Connection=True;MultipleActiveResultSets=true");
         }
+
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
-
+            base.OnModelCreating(modelBuilder);
         }
+
         public override int SaveChanges()
         {
             foreach (var entry in ChangeTracker.Entries()
