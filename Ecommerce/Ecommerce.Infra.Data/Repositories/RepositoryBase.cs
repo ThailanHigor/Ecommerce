@@ -22,7 +22,7 @@ namespace Ecommerce.Infra.Data.Repositories
             db.Dispose();
         }
 
-        public IEnumerable<TEntity> GetAll()
+        public virtual IEnumerable<TEntity> GetAll()
         {
             return db.Set<TEntity>().ToList();
         }

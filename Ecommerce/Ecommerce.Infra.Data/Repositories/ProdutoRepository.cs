@@ -11,5 +11,10 @@ namespace Ecommerce.Infra.Data.Repositories
         {
             return db.Produtos.Where(x => x.Name.ToLower().Contains(name.ToLower()));
         }
+
+        public override IEnumerable<Produto> GetAll()
+        {
+            return db.Produtos.Where(x=>!x.Deleted);
+        }
     }
 }
