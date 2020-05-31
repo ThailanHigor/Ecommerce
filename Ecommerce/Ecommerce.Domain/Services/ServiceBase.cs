@@ -25,7 +25,7 @@ namespace Ecommerce.Domain.Services
 
         public IEnumerable<TEntity> GetAll()
         {
-           return _repository.GetAll();
+            return _repository.GetAll();
         }
 
         public TEntity GetById(int id)

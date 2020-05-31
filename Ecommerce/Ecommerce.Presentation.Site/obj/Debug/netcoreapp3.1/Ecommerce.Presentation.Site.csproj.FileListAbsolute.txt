@@ -9,7 +9,6 @@ F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debu
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.pdb
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.Views.dll
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\bin\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.Views.pdb
-F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.csprojAssemblyReference.cache
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.Presentation.Site.StaticWebAssets.Manifest.cache
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\staticwebassets\Ecommerce.Presentation.Site.StaticWebAssets.xml
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.MvcApplicationPartsAssemblyInfo.cache
@@ -33,3 +32,4 @@ F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debu
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.dll
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.pdb
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.csproj.CopyComplete
+F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Presentation.Site\obj\Debug\netcoreapp3.1\Ecommerce.Presentation.Site.csprojAssemblyReference.cache
