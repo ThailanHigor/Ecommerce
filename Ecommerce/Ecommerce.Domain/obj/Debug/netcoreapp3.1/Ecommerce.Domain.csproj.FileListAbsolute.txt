@@ -5,4 +5,3 @@ F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreap
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.AssemblyInfo.cs
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.dll
 F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.pdb
-F:\Projetos Pessoais\C#\Ecommerce\Ecommerce\Ecommerce.Domain\obj\Debug\netcoreapp3.1\Ecommerce.Domain.csprojAssemblyReference.cache

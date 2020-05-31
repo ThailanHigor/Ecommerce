@@ -1,27 +1,35 @@
-﻿using Ecommerce.Presentation.Site.Models;
+﻿using Ecommerce.Application.Interfaces;
+using Ecommerce.Domain.Entities;
+using Ecommerce.Presentation.Site.Models;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.Logging;
 using System.Diagnostics;
 
 namespace Ecommerce.Presentation.Site.Controllers
 {
     public class HomeController : Controller
     {
-        private readonly ILogger<HomeController> _logger;
+        private readonly IProdutoAppService _produtoApp;
 
-        public HomeController(ILogger<HomeController> logger)
+        public HomeController(IProdutoAppService produtoApp)
         {
-            _logger = logger;
+            _produtoApp = produtoApp;
         }
 
         public IActionResult Index()
         {
-            return View();
+            var products = _produtoApp.GetAll();
+            return View(products);
         }
 
-        public IActionResult Privacy()
+        public IActionResult Create()
         {
             return View();
+        }
+        [HttpPost]
+        public IActionResult Create(Produto model)
+        {
+            _produtoApp.Add(model);
+            return Redirect("Index");
         }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]

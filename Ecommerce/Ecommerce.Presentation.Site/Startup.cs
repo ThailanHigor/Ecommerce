@@ -1,3 +1,9 @@
+using Ecommerce.Application.Interfaces;
+using Ecommerce.Application.Services;
+using Ecommerce.Domain.Interfaces.Repositories;
+using Ecommerce.Domain.Interfaces.Services;
+using Ecommerce.Domain.Services;
+using Ecommerce.Infra.Data.Repositories;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -19,6 +25,9 @@ namespace Ecommerce.Presentation.Site
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddControllersWithViews();
+            services.AddTransient<IProdutoAppService, ProdutoAppService>();
+            services.AddTransient<IProdutoService, ProdutoService>();
+            services.AddTransient<IProdutoRepository, ProdutoRepository>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
